@@ -12,7 +12,6 @@ https://eleven11233.github.io/gyy.github.io/
 - research/index.html：项目列表。
 - research/port-vision/index.html：湖北港口统一对外服务平台，介绍车牌号、集装箱号、箱型与铅封号识别实践。
 - research/port-stitching/index.html：湖北港口进场视频拼接项目。
-- cv/index.html：完整简历，支持打印或保存为 PDF。
 
 ## 维护
 直接修改 HTML 内容即可，无需构建。style.css 为共享样式，site.js 提供深浅色模式切换，avatar.svg 为字母头像。
